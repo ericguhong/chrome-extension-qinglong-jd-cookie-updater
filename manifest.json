@@ -13,7 +13,8 @@
   ],
   "host_permissions": [
     "*://bean.m.jd.com/*",
-    "*://ql.home/*"
+    "*://ql.home/*",
+    "http://localhost:5700/*"
   ],
   "action": {
     "default_popup": "popup.html",
